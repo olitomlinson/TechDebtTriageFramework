@@ -15,7 +15,8 @@ Raise an issue when a **decision has been made** which sacrifices one or more of
 
 Raise an issue when a **scenario has been discovered** which is impacting (or is likely to impact) one or more of the below characteristics.
 
-Characteristics:
+## Characteristics
+
 * Architecture
 * Availability
 * CI/CD
@@ -37,9 +38,13 @@ Provide a lightweight explanation of the technical debt, just enough to prompt t
 
 The `New` label is applied so it can be easily identified in the next triage sesison.
 
-## Assessment
+## Schedule
 
-During the triage session, new and existing issues that are not yet fully refined will be explored, assessed, and further refined to produce the following outcomes
+The team as as whole will come together on a regular candance. Monthly works well, but change as neccessary. This coming together of the team is called the triage session. It can be done remotely or in person, or a mix.
+
+## Triage Session
+
+During each triage session, new and existing issues that are not yet fully refined will be explored, assessed, and further refined to produce the following outcomes
 
 1. Domains affected
 2. Impacts (Characteristics) have been identified
