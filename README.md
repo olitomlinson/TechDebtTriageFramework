@@ -1,4 +1,4 @@
-This repo demonstrates how one or more technical teams can capture and track Tech Debt over time, using the Tech Debt Triage framework, created by Oliver Tomlinson. 
+This repo demonstrates how one or more technical teams can capture and track Tech Debt over time, using the Tech Debt Triage framework, created by Oliver Tomlinson in 2019. 
 
 The Framework exists entirely in the Read Me (below), and examples can be found in the Issues section of the repo.
 
