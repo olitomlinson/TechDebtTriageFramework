@@ -59,7 +59,7 @@ Once the refinement is complete, the issue is given the label of `accepted`.
 
 Without being clear about what is affected it is impossible to assess the severity of the technical debt.
 
-Labels are applied to the GitHub issue to easly identify what domains are affected by the technical debt.
+Labels are applied to the GitHub issue to easly identify which business domains or product domains are affected by the technical debt.
 
 ### 2. Characteristics
 
