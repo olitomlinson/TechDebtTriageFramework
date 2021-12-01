@@ -8,7 +8,7 @@ The Framework exists entirely in the Read Me (below), and examples can be found 
 
 - **Sustainable software** - Implement a lightweight evidence-based process that provides software owners with a mandate to pay-back technical debt.
 - **Free of blame** - A cathartic exercise that encourages developers to vindicate themselves when making decisions that they believe may not be the best choice long-term.
-- **Feeding the maintenance stream** - Maintain a register of concerns that can be used to regularly feed into the maintainance stream.
+- **Feeding the maintenance stream** - Maintain a register of concerns that can be used to regularly feed into the maintenance stream.
 
 ## Overview
 Raise an issue when a **decision has been made** which sacrifices one or more of the below characteristics in favour of delivery speed.
