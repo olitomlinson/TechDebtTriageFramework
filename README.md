@@ -32,11 +32,14 @@ Raise an issue when a **scenario has been discovered** which is impacting (or is
 
 ## Raising technical debt
 
-The technical debt is logged as a GitHub Issue. 
+Each technical debt item is logged as a GitHub Issue. 
 
-Provide a lightweight explanation of the technical debt, just enough to prompt the discussion in the next triage session.
+On initial creation of the issue, it should provide a lightweight explanation of the technical debt, just enough to prompt the discussion in the next triage session.
 
 The `New` label is applied so it can be easily identified in the next triage sesison.
+
+<img src="https://user-images.githubusercontent.com/4224880/160201606-69de6dcb-1d25-4e13-899f-593aa780d3de.png" width="400" >
+
 
 ## Schedule
 
