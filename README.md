@@ -56,6 +56,8 @@ During each triage session, new and existing issues that are not yet fully refin
 
 It is expected that some issues may take many rounds of triage before the technical debt is understood well enough to be accepted. If the item is not fully refined, apply the `needs refinement` label, and work on it during the next triage session or offline.
 
+<img src="https://user-images.githubusercontent.com/4224880/160202271-f1477eee-1dad-4c74-9295-ac1e5865a624.png" width="400" >
+
 Once the refinement is complete, the issue is given the label of `accepted`.
 
 ### 1. Domains
