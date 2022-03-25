@@ -51,7 +51,7 @@ During each triage session, new and existing issues that are not yet fully refin
 3. Trigger points have been predicted
 4. Why does this debt exist?
 
-It is expected that some issues may take many rounds of triage before the technical debt is understood well enough to be accepted.
+It is expected that some issues may take many rounds of triage before the technical debt is understood well enough to be accepted. If the item is not fully refined, apply the `needs refinement` label, and work on it during the next triage session or offline.
 
 Once the refinement is complete, the issue is given the label of `accepted`.
 
