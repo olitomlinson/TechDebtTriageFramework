@@ -38,7 +38,9 @@ On initial creation of the issue, it should provide a lightweight explanation of
 
 The `New` label is applied so it can be easily identified in the next triage sesison.
 
+<kbd>
 <img src="https://user-images.githubusercontent.com/4224880/160201606-69de6dcb-1d25-4e13-899f-593aa780d3de.png" width="400" >
+</kbd>  
 
 
 ## Schedule
@@ -56,7 +58,9 @@ During each triage session, new and existing issues that are not yet fully refin
 
 It is expected that some issues may take many rounds of triage before the technical debt is understood well enough to be accepted. If the item is not fully refined, apply the `needs refinement` label, and work on it during the next triage session or offline.
 
+<kbd>
 <img src="https://user-images.githubusercontent.com/4224880/160202271-f1477eee-1dad-4c74-9295-ac1e5865a624.png" width="400" >
+</kbd>
 
 Once the refinement is complete, the issue is given the label of `accepted`.
 
