@@ -64,6 +64,10 @@ It is expected that some issues may take many rounds of triage before the techni
 
 Once the refinement is complete, the issue is given the label of `accepted`.
 
+<kbd>
+<img src="https://user-images.githubusercontent.com/4224880/160202700-47208d0f-39d7-46f1-8099-49a5c62324ee.png" width="500" >
+</kbd>
+
 ### 1. Domains
 
 Without being clear about what is affected it is impossible to assess the severity of the technical debt.
